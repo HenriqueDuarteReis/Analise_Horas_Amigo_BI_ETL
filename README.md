@@ -18,7 +18,7 @@
 <img src = "Dashboard.png">
 
 
- A partir dos dados dispostos neste dashboard e da aplicação dos filtros e segmentações disponíveis, é possivel obter os seguintes resultados:
+ A partir dos dados dispostos neste dashboard e da aplicação dos filtros e segmentações disponíveis, é possível obter os seguintes resultados:
 
   • No geral, há uma suave tendência de aumento na produtividade para as próximas semanas e uma tendência um pouco maior para as horas de estudo.
 
@@ -30,7 +30,7 @@
 
   • Um dia de pouquíssimo estudo ou dias consecutivos de muito estudo geralmente resultam em pouco foco para estudar nos dias seguintes.
 
-  • O desempenho nas terças-feiras tem melhorado bastante nas últimas semanas, porém, quase no mesmo rítmo, tem caído o desempenho nas quartas-feiras.
+  • O desempenho nas terças-feiras tem melhorado bastante nas últimas semanas, porém, quase no mesmo ritmo, tem caído o desempenho nas quartas-feiras.
 
   • Talvez uma evolução um pouco mais equilibrada, como tem sido ao longo das segundas-feiras, não prejudique o desempenho do dia seguinte.
 
@@ -42,6 +42,6 @@
 
   • A perda de foco no final de semana, principalmente no domingo, está comprometendo as metas pessoais de produtividade e estudo.
 
-  • Podemos inferir, com base nos domingos mais produtivos,  que manter um certo rítmo de estudo no final de semana influencia para que o início da semana seguinte seja mais produtivo. 
+  • Podemos inferir, com base nos domingos mais produtivos, que manter um certo ritmo de estudo no final de semana influencia para que o início da semana seguinte seja mais produtivo. 
 
-Dessa forma, é possivel indicar que a busca de um tempo de estudo mais equilibrado é o ideal no momento. Por hora, também será válido trocar a meta e, ao invés de horas fixas de produtividade e estudo, ter o objetivo superar os números da semana anterior. Além disso, manter o foco durante o final de semana e aumentar a média de horas no domingo ajudará bastante na evolução.
+Dessa forma, é possível indicar que a busca de um tempo de estudo mais equilibrado é o ideal no momento. Por hora, também será válido trocar a meta e, ao invés de horas fixas de produtividade e estudo, ter como objetivo superar os números da semana anterior. Além disso, manter o foco durante o final de semana e aumentar a média de horas no domingo ajudará bastante na evolução.
